@@ -1,0 +1,2 @@
+# bitcore
+bitcore for frk
